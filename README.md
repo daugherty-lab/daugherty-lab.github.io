@@ -1,3 +1,1 @@
-Under construction
-
-Navigate through the Wiki tab for guidance.
+Welcome to the [Daugherty Lab](https://www.daughertylab.org) organization wiki repo! Head on over to the [wiki](https://github.com/daugherty-lab/daugherty-lab.github.io/wiki) page to get started!
